@@ -35,13 +35,13 @@ updateActiveUsers();
 
 
 ```php
-// Include the monitoring system code or functions
 
-// Call the getActiveUsersCount function to get the count of active users within a specified timeout
+// Call the `getActiveUsersCount` function to get the count of active users within a specified timeout
 $timeoutSeconds = 300; // You can customize the timeout as needed
 $activeUsersCount = getActiveUsersCount($timeoutSeconds);
 
 // $activeUsersCount now holds the count of users actively engaged with the application
 // You can use this information for analytics, reporting, or other purposes
+
 
 ```
