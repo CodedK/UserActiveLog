@@ -2,7 +2,7 @@
 
 "Shampoo" for your PHP User Activity 
 
-The SHAMPU is a specialized tool designed to track and analyze active user sessions in web applications. This system is unique in its approach as it utilizes shared memory for data storage, bypassing the need for conventional database or file-based storage methods. This innovative approach efficiently monitors user activities in real-time, making it an ideal solution for web applications where performance and scalability matter.
+The SHAMPU is a specialized tool designed to track and analyze active user sessions in web applications. This system is unique in its approach as it utilizes shared memory for data storage, bypassing the need for conventional database or file-based storage methods. This approach efficiently monitors user activities in real-time, making it an ideal solution for web applications where performance and scalability matter.
 
 ## Project Overview
 
