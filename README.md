@@ -1,6 +1,6 @@
 ## PHP User Activity Monitoring System through Shared Memory
 
-The PHP User Activity Monitoring System is a specialized tool designed to track and analyze active user sessions in web applications. This system is unique in its approach as it utilizes shared memory for data storage, bypassing the need for conventional database or file-based storage methods. This innovative approach offers an efficient way to monitor user activities in real-time, making it an ideal solution for web applications where performance and scalability are key considerations.
+The PHP User Activity Monitoring System is a specialized tool designed to track and analyze active user sessions in web applications. This system is unique in its approach as it utilizes shared memory for data storage, bypassing the need for conventional database or file-based storage methods. This innovative approach efficiently monitors user activities in real-time, making it an ideal solution for web applications where performance and scalability matter.
 
 ## Project Overview
 
